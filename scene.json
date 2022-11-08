@@ -1,0 +1,35 @@
+{
+  "display": {
+    "title": "Decentra",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "author-name",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "0,0",
+      "1,0"
+    ],
+    "base": "0,0"
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "b1d8f1b4-f778-4651-a6f6-bd449d915e24",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 2,
+      "cols": 1
+    }
+  }
+}
